@@ -1,6 +1,6 @@
 # timeout
 timeout = "1200s"
-baseURL = 'https://github.io/svensvx/1437studio/'
+baseURL = 'https://svenschnieders.com/1437studio/'
 # your website url
 # website title
 title = '1437 studio'
