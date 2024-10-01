@@ -23,4 +23,4 @@ defaultContentLanguage = 'en'
 # theme as module
 [module]
 [[module.imports]]
-path = "github.com/Sped0n/bridget/v2" # deploy with git (recommended)  WARN: you should also set `bundled` to true in params.toml !!!
+path = "bridget" # deploy with git (recommended)  WARN: you should also set `bundled` to true in params.toml !!!
