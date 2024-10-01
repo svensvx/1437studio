@@ -3,7 +3,7 @@ timeout = "1200s"
 baseURL = 'https://github.io/svensvx/1437studio/'
 # your website url
 # website title
-title = 'nobits'
+title = '1437 studio'
 # don't touch this
 disableKinds = ["section", "taxonomy", "term", "home"]
 # robots.txt
