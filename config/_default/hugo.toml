@@ -1,6 +1,6 @@
 # timeout
 timeout = "1200s"
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://github.com/svensvx/1437studio'
 # your website url
 # website title
 title = 'nobits'
